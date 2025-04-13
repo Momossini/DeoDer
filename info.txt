@@ -1,0 +1,9 @@
+Step 1: Install Required Libraries
+You need to install the following Python libraries:
+
+pip install requests beautifulsoup4 yt-dlp tqdm
+
+requests: For making HTTP requests to fetch video URLs.
+beautifulsoup4: For parsing HTML and extracting video URLs.
+yt-dlp: A powerful library for downloading videos from various websites (an improved fork of youtube-dl).
+tqdm:
