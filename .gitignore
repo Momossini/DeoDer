@@ -9,6 +9,10 @@ __pycache__/
 #videos
 *.mp4
 *.avi
+*.mov
+*.mkv
+
+*.txt
 
 # Distribution / packaging
 .Python
